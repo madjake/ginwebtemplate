@@ -1,0 +1,8 @@
+{
+    "host": "0.0.0.0",
+    "port": "8080",
+    "tls": true,
+    "production": false,
+    "tls_cert_file": "dev.local.pem",
+    "tls_key_file": "dev.local-key.pem"
+}
